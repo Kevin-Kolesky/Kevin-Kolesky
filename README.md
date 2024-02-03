@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kevin-Kolesky
 - 👀 I’m interested in learning web dev.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on HTML and CSS.
+- 🌱 I’m currently learning HTML and CSS and JS.
 - 📫 How to reach me: kevinkolesky03@gmail.com.
 - ⚡ Fun fact: I am very new to this.
 
